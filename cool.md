@@ -1,6 +1,6 @@
-## Way Cool Resources
-### Ceci's personal recommendations for learning web development skills.
----
+# Way Cool Resources
+##### Ceci's personal recommendations for learning web development skills.
+
 ### Web Dev
 #### Udemy Courses
 ##### Be sure to get them when they're on sale, which is pretty often.
